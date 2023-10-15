@@ -1,0 +1,6 @@
+﻿  HomeworkBoat17.10.23.cpp
+C:\Users\Октябрь17\source\repos\HomeworkBoat17.10.23\HomeworkBoat17.10.23\HomeworkBoat17.10.23.cpp(14,15): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\Октябрь17\source\repos\HomeworkBoat17.10.23\HomeworkBoat17.10.23\HomeworkBoat17.10.23.cpp(14,54): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\Октябрь17\source\repos\HomeworkBoat17.10.23\HomeworkBoat17.10.23\HomeworkBoat17.10.23.cpp(15,11): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\Октябрь17\source\repos\HomeworkBoat17.10.23\HomeworkBoat17.10.23\HomeworkBoat17.10.23.cpp(15,50): warning C4804: <: небезопасное использование типа "bool" в операции
+  HomeworkBoat17.10.23.vcxproj -> C:\Users\Октябрь17\source\repos\HomeworkBoat17.10.23\x64\Debug\HomeworkBoat17.10.23.exe
